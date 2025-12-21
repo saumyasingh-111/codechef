@@ -1,4 +1,4 @@
-https://www.codechef.com/problems/TRICHECK
+// https://www.codechef.com/problems/TRICHECK
 
 #include <iostream>
 #include <vector>
